@@ -1,0 +1,10 @@
+#ipynb
+github_clone.ipynb
+server.ipynb
+
+#data
+*.csv
+*.ftr
+
+#folder
+Server/
