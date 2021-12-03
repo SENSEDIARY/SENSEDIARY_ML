@@ -22,7 +22,7 @@
 ### Code
 * [sentiment140_preprocess](sentiment140_preprocess.ipynb) preprocess train data 
 * [sentiment140_torchmoji_label](sentiment140_torchmoji_label.ipynb) sentiment labeling with torchMoji (using [/torchMoji/examples/texts_sentiment_label.py](/torchMoji/examples/texts_sentiment_label.py) file)
-* [sentiment140_torchmoji_sentiment_preprocess](sentiment140_torchmoji_label.ipynb) preprocess sentiment label (reduce label 64 to 3)
+* [sentiment140_torchmoji_sentiment_preprocess](sentiment140_torchmoji_sentiment_preprocess.ipynb) preprocess sentiment label (reduce label 64 to 3)
 * [ktrain_sentiment_multiclassification](ktrain_sentiment_multiclassification.ipynb) learn and save ktrain sentiment classification model
 * [unable_youtube_remove](unable_youtube_remove.ipynb) remove unable youtube contents in csv
 * [youtube_preprocessing](youtube_preprocessing.ipynb) Pre-processing YouTube data to classify emotions (US English)
